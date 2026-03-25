@@ -9,8 +9,8 @@ MC_USER="minecraft"
 MC_DIR="/opt/minecraft/server"
 JAR_URL="https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar"
 RAM_MIN="2G"
-RAM_MAX="4G"
-MC_PORT="25565"
+RAM_MAX="5G"
+MC_PORT="36070"
 
 echo "=== Minecraft Server Setup ==="
 
